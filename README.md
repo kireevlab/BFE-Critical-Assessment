@@ -1,0 +1,1 @@
+This repository contains code used for data processing and analysis for the manuscript "The Last Mile Problem: A Critical Assessment of Physics-based and AI Affinity Predictors in Early Drug Discovery"
